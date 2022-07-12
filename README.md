@@ -8,13 +8,20 @@ Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide
 <img src="https://user-images.githubusercontent.com/109142828/178498246-a5cff51e-66d7-4224-8e56-b98e38514d91.png" width=40% height=40%>
 
 
+
+
 ## How to use this filefolder
+1 download and extract the code file. Open the 'CodeShengFu2022Landslides' filefolder.
+2 install Anaconda. Run the Python modual.
+3 In the python interface, go to the file folder of 'CodeShengFu2022Landslides'. 
+4 Run it. One figure output will be saved in the file of 'output'.
+5 Figure example: 
+<img src="https://user-images.githubusercontent.com/109142828/178505671-2ee6b16b-0c39-4d05-8d7b-dc1cb55e7b23.png" width=40% height=40%>
 
-One main file contains the SWADE code in the file of 'SWADE.py'. Three function files are 'b_read_Act_Axel_Lr.py', 'c_deno_wave.py' and'd_step_wise.py'. When run the main file, all the four files should be in the same file folder.
 
-For people who knows how to download by using gee and geemap, one code to download our training data of NDVI timeseries is suggested in the file of 'DownloadNDVIFromGEETranslatedFromAxelCode.ipynb'.
+Extra file: For people who knows how to download by using gee and geemap, one code to download our training data of NDVI timeseries is suggested in the file of 'DownloadNDVIFromGEETranslatedFromAxelCode.ipynb'. You can download one excel file and compare it to our uploaded file. Feel free to propose any question upon this and contact us freely. 
 
-To use this code more easily, one screenshot of filefolder is available . After users download and extract this file folder. Users can run the main code of 'SWADE', and the output figure will be saved in the file of 'output'.
+
 
 
 
