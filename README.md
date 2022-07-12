@@ -5,7 +5,7 @@ Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide
 
 ## Flowchart of the methodology of the SWADE method
 
-![](https://user-images.githubusercontent.com/109142828/178498246-a5cff51e-66d7-4224-8e56-b98e38514d91.png | width=100)
+![](https://user-images.githubusercontent.com/109142828/178498246-a5cff51e-66d7-4224-8e56-b98e38514d91.png )
 
 
 One main file contains the SWADE code in the file of 'SWADE.py'. Three function files are 'b_read_Act_Axel_Lr.py', 'c_deno_wave.py' and'd_step_wise.py'. When run the main file, all the four files should be in the same file folder.
