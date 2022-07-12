@@ -1,5 +1,5 @@
 # SWADE
-Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide dating technique that employs the principle that vegetation is often removed by landsliding in vegetated areas, causing a temporal decrease in normalized difference vegetation index (NDVI). The methods and results are illustrated in our publications in (Fu et al., 2022).
+Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide dating technique that employs the principle that vegetation is often removed by landsliding in vegetated areas, causing a temporal decrease in normalized difference vegetation index (NDVI). The methods and results are illustrated in our publications in (Link).
 
 
 
@@ -22,6 +22,6 @@ Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide
 Extra file: For people who knows how to download by using gee and geemap, one code to download our training data of NDVI timeseries is suggested in the file of 'DownloadNDVIFromGEETranslatedFromAxelCode.ipynb'. You can download one excel file and compare it to our uploaded file. Feel free to propose any question upon this and contact us freely. 
 
 
-
+## References
 
 
