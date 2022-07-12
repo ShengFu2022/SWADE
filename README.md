@@ -11,11 +11,11 @@ Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide
 
 
 ## How to use this filefolder
-1 download and extract the code file. Open the 'CodeShengFu2022Landslides' filefolder.
-2 install Anaconda. Run the Python modual.
-3 In the python interface, go to the file folder of 'CodeShengFu2022Landslides'. 
-4 Run it. One figure output will be saved in the file of 'output'.
-5 Figure example: 
+1 download and extract the code file. Open the 'CodeShengFu2022Landslides' filefolder.(<-- two spaces)
+2 install Anaconda. Run the Python modual.(<-- two spaces)
+3 In the python interface, go to the file folder of 'CodeShengFu2022Landslides'. (<-- two spaces)
+4 Run it. One figure output will be saved in the file of 'output'.(<-- two spaces)
+5 Figure example: (<-- two spaces)
 <img src="https://user-images.githubusercontent.com/109142828/178505671-2ee6b16b-0c39-4d05-8d7b-dc1cb55e7b23.png" width=60% height=60%>
 
 
