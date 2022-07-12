@@ -5,7 +5,7 @@ Segmented WAvelet-DEnoising and stepwise linear fitting (SWADE) is one landslide
 
 ## Flowchart of the methodology of the SWADE method
 
-<img src="https://user-images.githubusercontent.com/109142828/178498246-a5cff51e-66d7-4224-8e56-b98e38514d91.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/109142828/178498246-a5cff51e-66d7-4224-8e56-b98e38514d91.png" width=40% height=40%>
 
 
 
